@@ -1,6 +1,6 @@
 {
-    "python.dataScience.jupyterServerURI": "local",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "/home/gabriel/anaconda3/bin/python"
+    "python.pythonPath": "/home/gabriel/anaconda3/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
